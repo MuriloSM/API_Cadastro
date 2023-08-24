@@ -11,7 +11,7 @@ Uma API Rest desenvolvida com Django e Django Rest Framework para gerenciar dado
 ![erro email ja existente](imagens_projeto/erro_email_ja_existente.jpeg)
 
 #### Editar dados
-![Tela de edição](iimagens_projeto/Tela_de_edição.jpeg)
+![Tela de edição](imagens_projeto/Tela_de_edição.jpeg)
 
 
 ## Funcionalidades
